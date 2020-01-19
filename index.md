@@ -5,11 +5,12 @@
 <title>老年人</title>
 
 <img src='https://github.com/kangshenwang/kangshenwang/blob/master/wang1.png' alt='老年人的英姿1' />	
-
+https://github.com/kangshenwang/kangshenwang/blob/master/wang1.png?raw=true
 
 Syntax highlighted code block
 
 ### 第二部分
 <title>家父格言</title>
-我四五点起来就跑步，练功
-
+<blockqoute style="color:#66CCFF">
+  <big>我四五点起来就跑步，练功</big>
+</blockqoute>
