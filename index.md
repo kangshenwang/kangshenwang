@@ -3,13 +3,8 @@
 首先一个超链接，<a href='https://space.bilibili.com/386198165'>我的B站账号</a>，我的邮箱地址:kangshenwang@gmail.com
 ### 第一部分
 <title>老年人的英姿</title>
-<img src='C:\Users\Administrator\Desktop\纸片人black.png' alt="老年人的英姿" />
+<img src='https://github.com/kangshenwang/kangshenwang/blob/img/%E7%BA%B8%E7%89%87%E4%BA%BAblack.png' alt='老年人的英姿' />
 	
-	
-
-
-
-
 ```markdown
 Syntax highlighted code block
 
