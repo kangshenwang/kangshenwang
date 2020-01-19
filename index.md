@@ -4,9 +4,7 @@
 ### 第一部分
 <title>老年人</title>
 
-<img src='https://github.com/kangshenwang/kangshenwang/blob/img/IMG_20200119_124719.jpg' alt='老年人的英姿1' />	
-<img src='https://github.com/kangshenwang/kangshenwang/blob/img/IMG_20200119_124747.jpg' alt='老年人的英姿2' />
-<img src='https://github.com/kangshenwang/kangshenwang/blob/img/IMG_20200119_124756.jpg' alt='老年人的英姿3' />
+<img src='https://github.com/kangshenwang/kangshenwang/blob/master/wang1.png' alt='老年人的英姿1' />	
 
 ```markdown
 Syntax highlighted code block
