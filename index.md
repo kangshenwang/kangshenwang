@@ -5,9 +5,8 @@
 <title>老年人</title>
 
 <img src='https://github.com/kangshenwang/kangshenwang/blob/master/wang1.png' alt='老年人的英姿1' />	
-https://github.com/kangshenwang/kangshenwang/blob/master/wang1.png?raw=true
+<img src='https://github.com/kangshenwang/kangshenwang/blob/master/wang1.jpg' alt='老年人的英姿2' />	
 
-Syntax highlighted code block
 
 ### 第二部分
 <title>家父格言</title>
