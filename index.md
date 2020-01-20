@@ -11,5 +11,8 @@
 ### 第二部分
 家父格言
 <blockqoute style="color:#66CCFF">
-  <big>我四五点起来就跑步，练功</big>
+   <big>
+   我四五点起来就跑步，练功
+   人活年老树活皮，你个驴哈蛋
+   </big>
 </blockqoute>
