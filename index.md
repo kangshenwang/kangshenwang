@@ -12,7 +12,7 @@
 家父格言
 <blockqoute style="color:#66CCFF">
    <big>
-   我四五点起来就跑步，练功
-   人活年老树活皮，你个驴哈蛋
+   <p>我四五点起来就跑步，练功</p>
+   <p>人活年老树活皮，你个驴哈蛋</p>
    </big>
 </blockqoute>
