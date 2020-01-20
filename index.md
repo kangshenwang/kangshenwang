@@ -16,31 +16,58 @@
    <p>人活年老树活皮，你个驴哈蛋</p>
    </big>
 </blockqoute>
-
-
-
-<!--侧栏页面设计-->
-<div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="#">About</a>
-  <a href="#">Services</a>
-  <a href="#">Clients</a>
-  <a href="#">Contact</a>
-</div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
  
-<h2>右侧侧边栏</h2>
-<p>点击以下菜单图标打开侧边栏，并显示在右侧。</p>
-<span style="font-size:30px; cursor:pointer" onclick="openNav()">&#9776; 打开</span>
-
-<script type="text/ecmascript">
-    /*改变原始宽度（0）*/
-    function openNav() {
-        document.getElementById("mySidenav").style.width = "250px";
-    }
-    /*恢复原始宽度0*/
-    function closeNav() {
-        document.getElementById("mySidenav").style.width = "0";
-    }
-</script>
-
-
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>上中下布局</title>
+<style type="text/css">
+body{
+	background: #42413C ;
+	margin: 0;/*消除body中的留白*/
+	padding: 0;
+	text-align: center;
+}
+			
+.container{
+width: 778px;
+background: #FFF;
+margin: 0 auto;/*侧边的自动值与宽度结合使用，可以将布局居中对齐*/
+text-align: left;
+}
+			
+.header{
+padding: 10px 0;
+background: #ADB96E;
+}
+			
+.content{
+padding: 10px 0;
+}
+			
+.footer{
+padding: 0px;
+background: #CCC49F;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="header">
+<h1>网页头部</h1>
+</div>
+<div class="content">
+<h1>网页正文</h1>
+<h1>网页正文</h1>
+<h1>网页正文</h1>
+<h1>网页正文</h1>
+<h1>网页正文</h1>
+</div>
+<div class="footer">
+<h1>脚注</h1>
+</div>
+</div>
+</body>	
+</html>
